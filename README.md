@@ -1,5 +1,5 @@
 # Hospital-Database-Design
-The database of a hospital was conceptualized, logically formatted, normalized, and translated to a relational schema in MySQL that supports solid queries.
+The database of a hospital was conceptualized, logically formatted, normalized, and translated to a relational schema in MySQL that supports queries.
 
 ## Project Description
 A new hospital is being constructed to service the needs of a rapidly growing retirement community.
