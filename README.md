@@ -7,6 +7,7 @@ You have been contracted to develop the database system that will manage the pri
 of the hospital, but not the financial operation. 
  
 Basic rules and operational procedures are described below. 
+
 • The hospital is staffed by many types of employees including doctors, nurses, technicians, and
 administrators. 
 • All doctors who work for the hospital have consulting privileges, which allow them to be
